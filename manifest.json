@@ -1,0 +1,20 @@
+{
+  "name": "Analyst.lol",
+  "icons": [
+    {
+      "src": "favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "orientation": "portrait",
+  "start_url": "./index.html?live",
+  "display": "standalone",
+  "theme_color": "#1F2529",
+  "background_color": "#17181C"
+}
