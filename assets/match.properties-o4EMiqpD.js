@@ -1,0 +1,1 @@
+var e={title:`StarLadder Major Berlin 2019`,subtitle:`Finals`,youtubeVideoId:`hkVQXKCVSFQ`,youtubeVideoMatchCheckpoints:[{gameTimeInSeconds:0,videoTimeInSeconds:495}],fileName:`./game-data/astralis_avangar_game2.json`,matchResumeTimeInSeconds:1};export{e as avangar_astralis};
