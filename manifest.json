@@ -1,20 +1,16 @@
 {
+  "id": "/",
   "name": "Analyst.lol",
+  "short_name": "Analyst",
+  "description": "Data dashboard for esports streams",
   "icons": [
-    {
-      "src": "favicon-192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "favicon-512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
+    { "src": "/favicon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/favicon-512.png", "type": "image/png", "sizes": "512x512" },
+    { "src": "/favicon-maskable-512.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable" }
   ],
-  "orientation": "portrait",
-  "start_url": "./index.html?live",
+  "start_url": "/live",
+  "scope": "/",
   "display": "standalone",
-  "theme_color": "#1F2529",
+  "theme_color": "#17181C",
   "background_color": "#17181C"
 }

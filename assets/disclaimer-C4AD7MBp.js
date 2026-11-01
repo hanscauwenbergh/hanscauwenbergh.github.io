@@ -1,1 +1,0 @@
-import{S as e,f as t,n,u as r,v as i}from"./index-BkaoOPZ6.js";var a={root:`_root_1dh8i_1`},o=e();function s({width:e,marginSide:s=50,position:c,shown:l=!0,height:u}){return(0,o.jsx)(`div`,{className:a.root,style:{position:c,bottom:c===`absolute`?10:``,marginLeft:s,marginRight:s,width:e,fontFamily:t,color:r,opacity:n,maxHeight:l?u:0},children:i})}export{s as t};
