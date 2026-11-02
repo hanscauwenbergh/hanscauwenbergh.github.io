@@ -1,1 +1,0 @@
-import{j as e}from"./index-CiAgMOCI.js";var t=`livestreamProvider`;function n(){try{return localStorage.getItem(t)||e}catch{return e}}function r(e){try{localStorage.setItem(t,e)}catch{}}export{r as n,n as t};

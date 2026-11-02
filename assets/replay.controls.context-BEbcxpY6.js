@@ -1,0 +1,1 @@
+import{et as e,nt as t}from"./index-BJlNs818.js";var n=(0,t(e(),1).createContext)(null);export{n as t};
